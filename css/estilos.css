@@ -1,0 +1,22 @@
+body 
+{
+    color:rgb(75, 70, 70);
+    text-align: center;
+    font-family: cursive;
+}
+
+.containerarticle
+{
+    border: 1px black solid;
+    align-content: center;
+    padding: 1em;
+    align-items: center;
+    margin: auto;
+    background-color: white;
+}
+
+.containertext
+{
+    text-align: left;
+    font-size: 20px;
+}
