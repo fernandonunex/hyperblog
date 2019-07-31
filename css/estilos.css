@@ -7,6 +7,7 @@ body
 
 .containerarticle
 {
+    width: 70%;
     border: 1px black solid;
     align-content: center;
     padding: 1em;
